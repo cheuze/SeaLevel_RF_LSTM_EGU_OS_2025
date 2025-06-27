@@ -10,6 +10,7 @@ Now it depends on whether you want to run the Random Forest (option a) of the LS
 Both scripts also feature a short second section to verify whether the predictor series are correlated to each other
 
 Move to Jupyter
+
 4a. Run RF_all.ipynb for the entire Random Forest part. By default, generates an ensemble of 100 models. Choose within the script whether to run with all predictors or to activate the feature importance
 4b. Run LSTM_all.ipynb for the entire LSTM part. By default, generates an ensemble of 100 models. Third cell does the permutation feature importance.
 
